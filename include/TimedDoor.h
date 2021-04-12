@@ -1,4 +1,4 @@
-// Copyright 2021 GHA Test Team
+//  Copyright 2021 Krayushkina
 
 #ifndef INCLUDE_TIMEDDOOR_H_
 #define INCLUDE_TIMEDDOOR_H_
